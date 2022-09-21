@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd7d5b75.css",
+    "main.js": "/static/js/main.cc249e7b.js",
+    "static/media/link-svgrepo-com.svg": "/static/media/link-svgrepo-com.c545f2ebb893a3c5df83c40d5c02f8ab.svg",
+    "static/media/underline-svgrepo-com.svg": "/static/media/underline-svgrepo-com.5c6b2808c9992f06846d933d1b7b18a6.svg",
+    "static/media/bold-svgrepo-com.svg": "/static/media/bold-svgrepo-com.38c606ab6c2d24e59ac49e9e05f4e6ad.svg",
+    "static/media/bulleted-list-svgrepo-com.svg": "/static/media/bulleted-list-svgrepo-com.c0f42e3ac2f4cda34133535723d6379d.svg",
+    "static/media/numbered-list-svgrepo-com.svg": "/static/media/numbered-list-svgrepo-com.f39f8230f33f16b566eb7442bfd88967.svg",
+    "static/media/emoji-svgrepo-com.svg": "/static/media/emoji-svgrepo-com.2683464b7f6fb560f07aacf5f74d7f16.svg",
+    "index.html": "/index.html",
+    "static/media/italic-svgrepo-com.svg": "/static/media/italic-svgrepo-com.b1449519a6ce99a130c6fa9e8a8856b8.svg",
+    "static/media/add-svgrepo-com.svg": "/static/media/add-svgrepo-com.05a7424bc27e9633df88ce02b5712b88.svg",
+    "static/media/code-svgrepo-com.svg": "/static/media/code-svgrepo-com.9ed29e10f1854d13fbf4f54bc9a414d9.svg",
+    "static/media/strikethrough-svgrepo-com.svg": "/static/media/strikethrough-svgrepo-com.5febcda9e4a11ff67cff5be6a08cb188.svg",
+    "main.fd7d5b75.css.map": "/static/css/main.fd7d5b75.css.map",
+    "main.cc249e7b.js.map": "/static/js/main.cc249e7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd7d5b75.css",
+    "static/js/main.cc249e7b.js"
+  ]
+}
